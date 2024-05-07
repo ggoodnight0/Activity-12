@@ -1,4 +1,4 @@
-# Module Twelve Challenge
+#  CMS SQL Challenge
 
 ## Class Information
 
